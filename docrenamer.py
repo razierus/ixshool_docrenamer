@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 iXshool DocRenamer - Приложение для переименования файлов
-Автор: ИИ Ассистент
 """
 
 import tkinter as tk
