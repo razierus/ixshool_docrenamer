@@ -4,12 +4,13 @@
 iXshool DocRenamer - Приложение для переименования файлов
 """
 
-import tkinter as tk
-from tkinter import ttk, filedialog, messagebox
 import os
 import shutil
-from datetime import datetime
 import sys
+import tkinter as tk
+from datetime import datetime
+from tkinter import ttk, filedialog, messagebox
+
 
 class FileRenameRow:
     """Класс для представления одной строки переименования файла"""
